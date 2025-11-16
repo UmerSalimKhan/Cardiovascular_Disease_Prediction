@@ -6,8 +6,8 @@ This project aims to bring a machine learning solution for prognosing cardiovasc
 - [Dataset](#dataset)
 - [Model Selection](#model-selection)
 - [Getting Started](#getting-started)
-- [StreamLit App](streamlit-app)
-- [Future Scope](future-scope)
+- [StreamLit App](#streamlit-app)
+- [Future Scope](#future-scope)
 
 ## Libraries Used
 
